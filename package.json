@@ -1,0 +1,16 @@
+{
+  "name": "@foundryspatial/eslint-config",
+  "version": "0.1.0",
+  "description": "Foundry Spatial ESLint rules",
+  "main": "index.js",
+  "repository": "https://github.com/FoundrySpatial/eslint-config-foundryspatial",
+  "author": "Foundry Spatial <technical@foundryspatial.com>",
+  "license": "MIT",
+  "dependencies": {
+    "eslint-config-airbnb-base": "13.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^4.19.1",
+    "eslint-plugin-import": "^2.12.0"
+  }
+}
