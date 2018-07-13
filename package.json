@@ -1,5 +1,5 @@
 {
-  "name": "@foundryspatial/eslint-config",
+  "name": "eslint-config-foundryspatial",
   "version": "0.1.0",
   "description": "Foundry Spatial ESLint rules",
   "main": "index.js",
