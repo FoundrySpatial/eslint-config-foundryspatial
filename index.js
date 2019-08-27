@@ -18,8 +18,6 @@ module.exports = {
             ignoreStrings: true,
             ignoreTemplateLiterals: true,
         }],
-        // Disable no-param-reassign (vuex)
-        'no-param-reassign': 'off',
         // Disable no-underscore-dangle (mapbox-gl, elasticsearch)
         'no-underscore-dangle': 'off',
     },
