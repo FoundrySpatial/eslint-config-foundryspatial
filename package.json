@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-foundryspatial",
-  "version": "1.0.1",
+  "version": "2.0.0",
   "description": "Foundry Spatial ESLint rules",
   "main": "index.js",
   "files": [
