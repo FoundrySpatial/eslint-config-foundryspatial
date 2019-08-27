@@ -3,6 +3,9 @@
   "version": "1.0.1",
   "description": "Foundry Spatial ESLint rules",
   "main": "index.js",
+  "files": [
+    "index.js"
+  ],
   "repository": "https://github.com/FoundrySpatial/eslint-config-foundryspatial",
   "author": "Foundry Spatial <technical@foundryspatial.com>",
   "license": "MIT",
