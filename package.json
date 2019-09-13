@@ -1,10 +1,11 @@
 {
   "name": "eslint-config-foundryspatial",
-  "version": "2.0.0",
+  "version": "2.1.0",
   "description": "Foundry Spatial ESLint rules",
   "main": "index.js",
   "files": [
-    "index.js"
+    "index.js",
+    "vue.js"
   ],
   "repository": "https://github.com/FoundrySpatial/eslint-config-foundryspatial",
   "author": "Foundry Spatial <technical@foundryspatial.com>",
@@ -19,5 +20,8 @@
     "eslint": "^6.2.1",
     "eslint-config-airbnb-base": "^14.0.0",
     "eslint-plugin-import": "^2.18.2"
+  },
+  "optionalDependencies": {
+    "@vue/cli-plugin-eslint": "^3.11.0"
   }
 }
