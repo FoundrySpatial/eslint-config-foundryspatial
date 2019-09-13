@@ -19,6 +19,8 @@ extends: [
 
 For VueJS projects, use `foundryspatial/vue`, which extends our base config with extra Vue rules:
 
+(Assumes the project is using Vue CLI's `@vue/cli-plugin-eslint`)
+
 ```javascript
 // .eslintrc.js
 
