@@ -1,3 +1,5 @@
+// Foundry Spatial code style rules to override AirBnB base
+
 module.exports = {
 
     extends: [
