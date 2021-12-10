@@ -33,5 +33,15 @@ module.exports = {
         'sort-imports': 'off', // must turn off for simple-import-sort/sort to work
         'import/order': 'off', // must turn off for simple-import-sort/sort to work
         'jsdoc/no-undefined-types': 'off',
+
+        // require full path + extension for imports
+        'import/extensions': ['error', 'ignorePackages', {
+            js: 'always',
+            jsx: 'always',
+            mjs: 'always',
+            ts: 'always',
+            tsx: 'always',
+            vue: 'always',
+        }],
     },
 };
